@@ -1,0 +1,17 @@
+# Audio recordings and caches are not committed
+benchmarks/audio/
+*.wav
+data/cache/*
+!data/cache/.gitkeep
+# Models (download separately, see docs/DOCUMENTATION.md)
+*.gguf
+*.onnx
+*.synpkg
+models/
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+# Logs
+*.log

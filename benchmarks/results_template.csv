@@ -1,0 +1,1 @@
+timestamp,test_id,variante,stt_engine,uebersetzer,warm,wiederholung,stt_wall_s,stt_cpu_s,llm_prompt_tokens,llm_gen_tokens,llm_wall_s,llm_cpu_s,tts_wall_s,tts_cpu_s,gesamt_wall_s,energie_wh_modelliert,energie_wh_gemessen,notiz

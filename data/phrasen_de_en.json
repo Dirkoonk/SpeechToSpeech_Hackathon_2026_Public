@@ -1,0 +1,30 @@
+{
+  "_hinweis": "Geprüfte Standardsätze für den Dolmetscher. Werden vor der freien Übersetzung geprüft (normalisierter Textvergleich).",
+  "phrasen": [
+    {"de": "Haben Sie Schmerzen?", "en": "Are you in pain?"},
+    {"de": "Wo tut es weh?", "en": "Where does it hurt?"},
+    {"de": "Wie stark sind die Schmerzen von null bis zehn?", "en": "How strong is the pain from zero to ten?"},
+    {"de": "Seit wann haben Sie die Beschwerden?", "en": "Since when have you had these symptoms?"},
+    {"de": "Haben Sie Allergien?", "en": "Do you have any allergies?"},
+    {"de": "Nehmen Sie regelmäßig Medikamente?", "en": "Do you take any medication regularly?"},
+    {"de": "Haben Sie Fieber?", "en": "Do you have a fever?"},
+    {"de": "Ist Ihnen übel?", "en": "Do you feel sick?"},
+    {"de": "Haben Sie heute schon etwas gegessen?", "en": "Have you eaten anything today?"},
+    {"de": "Bitte nicht essen und trinken bis zur Untersuchung.", "en": "Please do not eat or drink until the examination."},
+    {"de": "Ich messe jetzt Ihren Blutdruck.", "en": "I will now measure your blood pressure."},
+    {"de": "Ich nehme Ihnen jetzt Blut ab.", "en": "I will now take a blood sample."},
+    {"de": "Bitte tief einatmen.", "en": "Please breathe in deeply."},
+    {"de": "Können Sie aufstehen?", "en": "Can you stand up?"},
+    {"de": "Brauchen Sie Hilfe beim Aufstehen?", "en": "Do you need help getting up?"},
+    {"de": "Möchten Sie etwas trinken?", "en": "Would you like something to drink?"},
+    {"de": "Brauchen Sie eine Decke?", "en": "Do you need a blanket?"},
+    {"de": "Der Arzt kommt gleich.", "en": "The doctor will be here shortly."},
+    {"de": "Haben Sie Fragen?", "en": "Do you have any questions?"},
+    {"de": "Bitte drücken Sie die Klingel, wenn Sie etwas brauchen.", "en": "Please press the call button if you need anything."},
+    {"de": "Ja.", "en": "Yes."},
+    {"de": "Nein.", "en": "No."},
+    {"de": "Ich verstehe Sie nicht.", "en": "I don't understand you."},
+    {"de": "Bitte wiederholen Sie das.", "en": "Please repeat that."},
+    {"de": "Danke.", "en": "Thank you."}
+  ]
+}

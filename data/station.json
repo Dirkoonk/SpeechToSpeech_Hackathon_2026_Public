@@ -1,0 +1,23 @@
+{
+  "_hinweis": "Fiktive Demo-Station, keine echten Daten.",
+  "station": "Station 3B, Innere Medizin",
+  "besuchszeiten": "Täglich von 14 bis 19 Uhr. Pro Patient höchstens zwei Besucher gleichzeitig.",
+  "essenszeiten": {
+    "fruehstueck": "7:30 Uhr",
+    "mittagessen": "11:45 Uhr",
+    "abendessen": "17:30 Uhr"
+  },
+  "wege": {
+    "cafeteria": "Erdgeschoss, vom Aufzug aus links, geöffnet von 8 bis 18 Uhr.",
+    "radiologie": "Untergeschoss, Aufzug U, dann der blauen Linie folgen.",
+    "apotheke": "Haupteingang, gleich rechts.",
+    "ausgang": "Aufzug ins Erdgeschoss, dann geradeaus zum Haupteingang.",
+    "kapelle": "Erstes Obergeschoss, Westflügel."
+  },
+  "kontakt": {
+    "pflege": "Bitte die Klingel am Bett drücken oder mich bitten, die Pflegekraft zu rufen.",
+    "notfall": "Im Notfall sofort die rote Klingel am Bett drücken."
+  },
+  "wlan_gaeste": "Das Gäste-WLAN heißt Klinik-Gast, das Passwort steht auf dem Zettel am Nachttisch.",
+  "ruhezeiten": "Nachtruhe ab 22 Uhr, Mittagsruhe von 13 bis 14 Uhr."
+}

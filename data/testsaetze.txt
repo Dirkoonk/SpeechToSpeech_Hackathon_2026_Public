@@ -1,0 +1,13 @@
+# 10 feste Testsätze für Benchmarks (vom Team einsprechen, keine Patientendaten)
+# Format: ID | Modus | Sprache | Text
+T01 | assistent   | de | Wann sind die Besuchszeiten?
+T02 | assistent   | de | Wann gibt es Mittagessen?
+T03 | assistent   | de | Wo ist die Cafeteria?
+T04 | assistent   | de | Wie wird das Wetter morgen?
+T05 | assistent   | de | Erzähl mir einen Witz.
+T06 | dolmetscher | de | Haben Sie Schmerzen?
+T07 | dolmetscher | de | Bitte nicht essen und trinken bis zur Untersuchung.
+T08 | dolmetscher | de | Ihre Tochter hat angerufen und kommt heute Abend vorbei.
+T09 | dolmetscher | en | Yes, my stomach hurts since yesterday evening.
+T10 | dolmetscher | en | Can I call my family from here?
+# T06, T07 = Treffer Phrasenbibliothek · T08–T10 = freie Übersetzung
